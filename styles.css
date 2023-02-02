@@ -59,6 +59,7 @@ tr{
 }
 tr:hover{
     background-color: #66D3BA;
+    color:white;
 }
 
 @media screen and (min-width: 640px) {
